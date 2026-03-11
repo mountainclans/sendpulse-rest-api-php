@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": ">=7.1.0",
+    "php": ">=8.1.0",
     "ext-json": "*",
     "ext-curl": "*"
   },
@@ -30,5 +30,8 @@
     "psr-4": {
       "Sendpulse\\RestApi\\": "src/"
     }
+  },
+  "require-dev": {
+    "rector/rector": "^2.3"
   }
 }

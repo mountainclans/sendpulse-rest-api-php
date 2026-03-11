@@ -12,7 +12,7 @@ API Documentation [https://sendpulse.com/api](https://sendpulse.com/api)
 
 ### Requirements
 
-- php: >=7.1.0
+- php: >=8.5
 - ext-json: *
 - ext-curl: *
 
